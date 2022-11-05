@@ -1,0 +1,36 @@
+﻿Merk,Tipe,Ram,Internal,Harga_Beli,Bln_Beli,Thn_Beli,Tgl_Beli,Tgl_Datang,Kondisi,Keterangan_Kondisi,Status,Refund,Tgl_Laku,Keterangan_Jual,Harga_Jual,Biaya_Tambahan,Keterangan_Biaya_Tambahan
+Oppo,F7,4,64,743000,4,2022,4/27/2022,4/30/2022,Normal,-,Terjual,-,5/2/2022,Batangan,900000,0,-
+Samsung,A03S,4,64,1160000,4,2022,4/27/2022,4/29/2022,Normal,-,Terjual,-,5/5/2022,Batangan,1250000,0,-
+Samsung,A11,3,32,806000,4,2022,4/28/2022,4/30/2022,Normal,-,Terjual,-,5/4/2022,With Charger,1100000,40000,Charger
+Xiaomi,Redmi Note 7,4,64,1060000,4,2022,4/28/2022,4/30/2022,Normal,-,Terjual,-,5/4/2022,Batangan,1200000,0,-
+Oppo,A31,4,128,1224000,5,2022,5/6/2022,5/10/2022,Cacat,Ada titik di layar bagian tengah,Refund,Success,5/14/2022,Refund,1224000,23000,Ongkir
+Samsung,A21S,3,32,1223000,5,2022,5/6/2022,5/10/2022,Normal,-,Terjual,-,5/12/2022,With Box + Charger,1400000,40000,Charger
+Samsung ,M21,4,64,1347000,5,2022,5/7/2022,5/10/2022,Normal,-,Terjual,-,5/12/2022,With Box + Charger,1500000,0,-
+Vivo,Y91 (Y93 2019),2,16,607000,5,2022,5/7/2022,5/10/2022,Cacat,Layar retak di bagian piggir,Refund,Success,5/23/2022,Refund,607000,15000,Ongkir
+Samsung,M30S,4,64,1242000,5,2022,5/15/2022,5/19/2022,Cacat,Layar sentuh susah,Refund,Success,5/30/2022,Refund ,1242000,15000,Ongkir
+Samsung,A03S,4,64,1169000,5,2022,5/18/2022,5/20/2022,Cacat,Layar shadow,Refund,Success,31/5/2022,Refund,1169000,15000,Ongkir
+Oppo,A15,3,32,958000,5,2022,5/18/2022,5/20/2022,Normal,-,Terjual,-,5/31/2022,With Charger,1150000,40000,Charger
+Samsung,A21S,4,64,1250000,5,2022,5/27/2022,5/30/2022,Cacat,Layar poal pinggir di bagian kiri atas,Refund,Tuker Barang,7/30/2022,"Tuker barang dengan ram 3, internal 32",1250000,15000,Ongkir
+Samsung,A7 2018,4,64,974000,5,2022,5/31/2022,6/2/2022,Cacat,"Layar retak, Casing belakang mbuka",Refund,Reject,6/30/2022,Batangan,930000,15000,Ongkir
+Realme,Realme 3,3,64,957000,6,2022,6/4/2022,6/7/2022,Cacat,"Layar Error, sentuh mblandrang",Refund,Success,6/18/2022,Refund,957000,15000,Charger
+Samsung ,J4+,2,32,581000,6,2022,6/4/2022,6/7/2022,Normal,-,Terjual,-,7/21/2022,With Charger,700000,35000,Charger
+Oppo,A5S,3,32,840000,6,2022,6/7/2022,6/10/2022,Cacat,"eMMC bermasalah, bootloop",Terjual,-,8/23/2022,Batangan,900000,450000,Service eMMC
+Vivo,Y91 (Y93 2019),2,32,710000,8,2022,8/3/2022,8/5/2022,Normal,-,Terjual,-,8/6/2022,With Charger,920000,40000,Charger
+Samsung,J4+,2,32,471000,8,2022,8/6/2022,8/9/2022,Normal,-,Terjual,-,8/20/2022,With Charger,650000,35000,Charger
+Samsung ,M20,3,32,774000,8,2022,8/9/2022,8/11/2022,Cacat,"LCD gantian, sensor bermasalah",Refund,Success,8/19/2022,Refund,774000,15000,Ongkir
+Oppo,A15,3,32,905000,8,2022,8/20/2022,8/23/2022,Normal,-,Terjual,-,8/25/2022,Batangan,1050000,0,-
+Samsung,A03,4,64,886000,8,2022,8/20/2022,8/23/2022,Cacat,Body melengkung,Refund,Reject,9/8/2022,Batangan,800000,15000,Ongkir
+Samsung,A03S,4,64,1030000,8,2022,8/23/2022,8/25/2022,Cacat,Layar shadow,Refund,Success,9/7/2022,Refund,1030000,15000,Ongkir
+Samsung,J2 Prime,"1,5",8,246000,8,2022,8/27/2022,8/29/2022,Normal,-,Terjual,-,10/1/2022,With Charger,400000,25000,Charger
+Xiaomi,Redmi 3S,3,32,380000,8,2022,8/28/2022,8/31/2022,Cacat,Sinyal tidak stabil,Refund,Success,9/8/2022,Refund,380000,15000,Ongkir
+samsung,A20S,4,64,1002000,9,2022,9/18/2022,9/21/2022,Cacat,Layar sentuh kadang macet,Refund,Success,9/29/2022,Refund,1002000,15000,Ongkir
+Samsung ,A03S,4,64,1040000,9,2022,9/18/2022,9/21/2022,Normal,-,Terjual,-,10/1/2022,With Charger,1200000,30000,Charger
+Samsung,A02,3,32,680000,9,2022,9/21/2022,9/25/2022,Normal,-,Terjual,-,10/2/2022,With Charger,850000,30000,Charger
+Xiaomi,Redmi S2,3,32,567000,9,2022,9/22/2022,9/26/2022,Normal,-,Terjual,-,10/18/2022,With Charger,750000,30000,Charger
+Samsung,J6+,3,32,519000,9,2022,9/24/2022,9/29/2022,Normal,-,Pemasaran,-,,,,,
+Samsung,A20S,4,64,960000,9,2022,9/30/2022,10/3/2022,Normal,-,Terjual (Belum Lunas),-,,,,,
+Realme,C25y,4,64,1250000,10,2022,10/6/2022,10/10/2022,Normal,-,Terjual (Belum Lunas),-,10/12/2022,With Box + Charger,1450000,40000,Charger
+Samsung,A20S,3,32,769000,10,2022,10/14/2022,10/16/2022,Normal,-,Terjual,-,11/3/2022,With Charger ,1000000,35000,Charger
+Samsung ,M20,3,32,675000,10,2022,10/15/2022,10/19/2022,Normal,-,Pemasaran,-,,,,,
+Oppo,F11,4,128,1001000,10,2022,10/25/2022,10/27/2022,Normal,-,Pemasaran,-,,,,,
+Samsung,A20S,4,64,901000,10,2022,10/26/2022,10/28/2022,Normal,Body sebelah samping gompal,Pemasaran,-,,,,,
